@@ -19,4 +19,6 @@ Start the EXPO App
 
 ## Marketing Poster
 
-![App Marketing Poster](https://github.com/Eshmika/TravelBuddy/blob/db7dcc300d4dc24d19834ae7c8de8bc7dee2721b/Poster/App%20Poster.jpg)
+![Screenshot1](https://github.com/Eshmika/TravelBuddy/blob/main/Poster/Screenshot%201.png)
+![Screenshot2](https://github.com/Eshmika/TravelBuddy/blob/main/Poster/Screenshot%202.png)
+![Screenshot3](https://github.com/Eshmika/TravelBuddy/blob/main/Poster/Screenshot%203.png)
